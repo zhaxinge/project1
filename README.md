@@ -1,5 +1,7 @@
 ## Revive of Guiyu
 
+[back](https://xingezhang.netlify.app/)
+
 ### Introduction
 
 Guiyu imports a large number of electronic waste from all over the world, and its classification, dismantling, recycling, and the extraction of precious metals such as gold from the cheap waste have allowed Guiyu's people to accumulate wealth in a short time. However, the rough treatment process and a large amount of waste residues also caused serious pollution to the local soil and groundwater in Guiyu. The incineration of organic matter releases a large amount of harmful gases, destroys the ozone layer and causes the greenhouse effect.
@@ -61,3 +63,5 @@ ___
 [1] Global E-waste Recycling Station--Guiyu, Shantou: http://www.rightic.cn/CoreSchool/IndustryNewsDetail/1211
 <br>[2] An Anthropological Survey of the Electronic Dismantling Industry in Guiyu, Shantou: https://www.greenpeace.org.cn/china/Global/china/_planet-2/report/2007/11/guiyu-report.pdf
 <br>[3] Principles and Resources for Site Remediation and Landscape Design https://sites.google.com/site/bi016banyu4/WEh76liyer2067
+
+[back](https://xingezhang.netlify.app/)
