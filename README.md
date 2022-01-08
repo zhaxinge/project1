@@ -1,4 +1,3 @@
-[back](https://xingezhang.netlify.app/)
 ## Revive of Guiyu
 
 ### Introduction
