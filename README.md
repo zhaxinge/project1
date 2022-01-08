@@ -61,5 +61,5 @@ ___
 [1] Global E-waste Recycling Station--Guiyu, Shantou: http://www.rightic.cn/CoreSchool/IndustryNewsDetail/1211
 <br>[2] An Anthropological Survey of the Electronic Dismantling Industry in Guiyu, Shantou: https://www.greenpeace.org.cn/china/Global/china/_planet-2/report/2007/11/guiyu-report.pdf
 <br>[3] Principles and Resources for Site Remediation and Landscape Design https://sites.google.com/site/bi016banyu4/WEh76liyer2067
-___
+
 [back](https://xingezhang.netlify.app/)
